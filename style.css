@@ -77,3 +77,15 @@ body {
     font-size: 15px;
     color: #1F1F1F;
 }
+
+@media (max-width:480px) {
+    .menu {
+        width: 300px;
+    }
+}
+
+@media (max-width:320px) {
+    .menu {
+        width: 270px;
+    }
+}
